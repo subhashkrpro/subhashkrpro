@@ -1,8 +1,7 @@
+<a href="https://github.com/subhashkrpro"><img src="https://github-stats-alpha.vercel.app/api?username=subhashkrpro&cc=000&tc=00ecbc&ic=FF00CC&bc=088395" width="100%"></a>
+<a href="https://github.com/subhashkrpro"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhashkrpro&theme=nightowl" alt="Stats" width="33%" /></a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhashkrpro&theme=nightowl" alt="GitHub Month Wise Contribution Graph" width="67%" /></a>
 
-<a href="https://github.com/subhashkrpro"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhashkrpro&theme=nightowl" alt="Stats" width="27%"/></a>
-<a href="https://github.com/subhashkrpro"><img src="https://github-stats-alpha.vercel.app/api?username=subhashkrpro&cc=000&tc=00ecbc&ic=FF00CC&bc=088395" width="42%"></a><a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhashkrpro&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 58%; height: auto;"/></a>
-
-
+<!-- ### width="27%" -->
 
 
 <!-- ### 🎧 Spotify Playing -->
